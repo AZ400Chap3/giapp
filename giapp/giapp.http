@@ -1,0 +1,6 @@
+@giapp_HostAddress = http://localhost:5010
+
+GET {{giapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
